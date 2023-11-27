@@ -1,16 +1,25 @@
-﻿  Main.cpp
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Point2D.h(5,25): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Point2D.h(5,19): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Point2D.h(45,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Point2D.h(92,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Point2D.h(93,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Point2D.h(99,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Line.h(19,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Line.h(34,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Main.cpp(98,21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Main.cpp(99,20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Main.cpp(174,21): warning C4244: “初始化”: 从“float”转换到“GLint”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Main.cpp(217,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Main.cpp(256,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-C:\Users\Lenovo\source\repos\OpenGL_Homeworks\Main.cpp(277,23): warning C4305: “+=”: 从“double”到“GLfloat”截断
-  OpenGL_Homeworks.vcxproj -> C:\Users\Lenovo\source\repos\OpenGL_Homeworks\x64\Debug\OpenGL_Homeworks.exe
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenGL_Homeworks.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  EBO.cpp
+  Main.cpp
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Point2D.h(5,25): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Point2D.h(5,19): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Point2D.h(45,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Point2D.h(92,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Point2D.h(93,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Point2D.h(99,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Line.h(19,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Line.h(34,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Main.cpp(98,21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Main.cpp(99,20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Main.cpp(174,21): warning C4244: “初始化”: 从“float”转换到“GLint”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Main.cpp(217,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Main.cpp(256,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\Main.cpp(277,23): warning C4305: “+=”: 从“double”到“GLfloat”截断
+  Shader.cpp
+  VAO.cpp
+  VAO.h
+  VBO.cpp
+  正在生成代码...
+  glad.c
+x64\Debug\VAO.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  OpenGL_Homeworks.vcxproj -> C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\x64\Debug\OpenGL_Homeworks_hw1_Hexagon.exe

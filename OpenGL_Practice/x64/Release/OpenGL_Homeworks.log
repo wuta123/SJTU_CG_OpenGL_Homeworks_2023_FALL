@@ -1,0 +1,21 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(OpenGL_Homeworks.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Camera.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Camera.h(4,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  EBO.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\EBO.h(5,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  Main.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(2,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  Mesh.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\VAO.h(3,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  Shader.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Shader.h(5,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  stb.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\stb.cpp(2,10): fatal error C1083: 无法打开包括文件: “stb/stb_image.h”: No such file or directory
+  Texture.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Texture.h(4,9): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  VAO.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\VAO.h(3,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  VAO.h
+C:\Users\Lenovo\source\repos\OpenGL_Practice\VAO.h(3,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
+  VBO.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\VBO.h(5,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory

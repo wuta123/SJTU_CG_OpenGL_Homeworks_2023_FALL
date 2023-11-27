@@ -1,1 +1,2 @@
 C:\Users\Lenovo\source\repos\OpenGL_Homeworks\x64\Debug\OpenGL_Homeworks.exe
+C:\Users\Lenovo\source\repos\SJTU_CG_OpenGL_Homeworks\OpenGL_Homeworks_hw1_Hexagon\x64\Debug\OpenGL_Homeworks_hw1_Hexagon.exe
