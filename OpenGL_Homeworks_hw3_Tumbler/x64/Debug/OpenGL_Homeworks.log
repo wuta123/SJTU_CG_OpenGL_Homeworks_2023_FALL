@@ -1,0 +1,60 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenGL_Homeworks_hw1_Hexagon.vcxproj, OpenGL_Homeworks.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Camera.cpp
+  EBO.cpp
+  Ground.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Ground.cpp(17,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Ground.cpp(18,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Ground.cpp(20,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Ground.cpp(21,26): warning C4018: “<”: 有符号/无符号不匹配
+  Ground.h
+  Main.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Point2D.h(5,25): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Point2D.h(5,19): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Point2D.h(45,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Point2D.h(92,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Point2D.h(93,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Point2D.h(99,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Line.h(19,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Line.h(34,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Particle.h(42): warning C4091: “static ”: 没有声明变量时忽略“ParticleGenerator::particleType”的左侧
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.h(83,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.h(84,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.h(86,13): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(66,12): warning C4101: “originColor”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(130,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(130,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(190,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(191,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(239,34): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(243,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(246,29): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(247,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(259,44): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(265,31): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(271,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(300,19): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(395,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Main.cpp(437,23): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  Mesh.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Mesh.cpp(51,65): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  Model.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Particle.h(42): warning C4091: “static ”: 没有声明变量时忽略“ParticleGenerator::particleType”的左侧
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.h(83,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.h(84,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.h(86,13): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Model.cpp(794,105): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+  Particle.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Particle.h(42): warning C4091: “static ”: 没有声明变量时忽略“ParticleGenerator::particleType”的左侧
+C:\Users\Lenovo\source\repos\OpenGL_Practice\Particle.cpp(188,20): warning C4018: “<”: 有符号/无符号不匹配
+  Shader.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\Lenovo\source\repos\OpenGL_Practice\VAO.cpp(19,63): warning C4244: “参数”: 从“GLsizeiptr”转换到“GLsizei”，可能丢失数据
+  VAO.h
+  VBO.cpp
+  正在生成代码...
+  glad.c
+x64\Debug\Ground.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\VAO.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  OpenGL_Homeworks.vcxproj -> C:\Users\Lenovo\source\repos\OpenGL_Practice\x64\Debug\OpenGL_Practice.exe
